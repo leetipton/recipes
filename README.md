@@ -1,0 +1,1 @@
+This is a slow-burn restart to learning HTML, as well as committing to Github. I'm about to add, commit, and push this bad boy.
